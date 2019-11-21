@@ -116,7 +116,7 @@ INSERT IGNORE birthday_week (week_day) VALUES
 ('Sunday');
 */
 
--- 5 задание
+-- 3 задание
 CREATE TABLE example (
 	value INT UNSIGNED
 );
